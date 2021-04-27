@@ -1,0 +1,12 @@
+canvas {
+	border: 1px solid black;
+}
+
+p {
+	margin: 5px;
+}
+
+.logic-block {
+	border: 1px solid gray;
+	margin-bottom: 15px;
+}
